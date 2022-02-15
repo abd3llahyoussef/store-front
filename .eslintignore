@@ -1,0 +1,4 @@
+prettier.json
+build
+node_modules
+spec

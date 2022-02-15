@@ -1,0 +1,11 @@
+# Ignore artifacts:
+build
+node_modules
+.prettierrc
+.eslintrc.js
+package-lock.json
+package.json
+README.md
+tsconfig.json
+spec\support\jasmine.json
+jasmine.json
